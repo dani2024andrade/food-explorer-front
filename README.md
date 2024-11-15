@@ -1,6 +1,8 @@
 # FoodExplorer
 
-Essa é a versão do aplicativo FoodExplorer. possui como objetivo o gerenciamento de pratos em um restaurante, tendo com opçoes : a inclusão, exclusão e edição, funções essas  que só são permitida pelo usuário administrador. os clientes conseguem incluir pratos além de  visualizar as caracteristicas de cada prato.
+Aqui está a primeira versão do aplicativo FoodExplorer. Este projeto tem como finalidade inicial o gerenciamento de pratos em um restaurante, permitindo a inclusão, exclusão e edição, funcionalidade que só é permitida pelo usuário administrador. Por parte dos clientes, é possível incluir pratos no carrinho por tipo e visualizar as informações individuais de cada prato. Neste projeto, ainda serão implementadas funcionalidades ao longo do tempo.  
+![image](https://github.com/GabrielOliveiraEvangelista/FoodExplorer-api/assets/89110974/488f0550-ce34-4610-9508-c4d50b9b2d6b)
+
 ## Executando o BackEnd
 
 ```bash
@@ -32,3 +34,4 @@ Essa é a versão do aplicativo FoodExplorer. possui como objetivo o gerenciamen
 O deploy desta aplicação foi feito de forma gratuita via Render e Netlify. Por não ser um serviço pago, a hospedagem do BackEnd hiberna quando não há atividade no site.
 
 
+https://rocketseatfoodexplorer.netlify.app/
